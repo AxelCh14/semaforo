@@ -1,0 +1,1 @@
+Código para generar un semaforo en React, que cambie cada 3 segundos.
